@@ -1,0 +1,15 @@
+Title:  Note Status Sort
+
+Tags:   note
+
+Model:  Note
+
+Seq:    1.10
+
+Field:  Status Sort
+
+Type:   String
+
+Body: 
+
+Formatted for sorting. 

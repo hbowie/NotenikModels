@@ -1,0 +1,16 @@
+Title:  Note Author
+
+Tags:   note
+
+Model:  Note
+
+Seq:    1.14
+
+Field:  Author
+
+Type:   String
+
+Body: 
+
+The author(s) of a note. 
+

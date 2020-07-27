@@ -1,0 +1,18 @@
+Title:  Note Field Note
+
+Tags:   notefield
+
+Model:  Note Field
+
+Seq:    2.3
+
+Field:  Note
+
+Wrapper: Parent
+
+Type:   Note Model
+
+Body: 
+
+Pointer to parent note. 
+

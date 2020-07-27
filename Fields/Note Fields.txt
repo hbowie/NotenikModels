@@ -1,0 +1,22 @@
+Title:  Note Fields
+
+Tags:   note
+
+Model:  Note
+
+Seq:    1.100
+
+Field:  Fields
+
+Wrapper: Children
+
+Children for: note
+
+Child Model: Note Field
+
+Type:   UUID
+
+Body: 
+
+Additional, optional fields associated with the Note. 
+

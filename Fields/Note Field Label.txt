@@ -1,0 +1,15 @@
+Title:  Note Field Label
+
+Tags:   notefield
+
+Model:  Note Field
+
+Seq:    2.1
+
+Field:  Label
+
+Type:   String
+
+Body: 
+
+The label/name identifying the field, reduced to its lowest common denominator value. 

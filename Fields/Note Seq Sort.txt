@@ -1,0 +1,15 @@
+Title:  Note Seq Sort
+
+Tags:   note
+
+Model:  Note
+
+Seq:    1.6
+
+Field:  Seq Sort
+
+Type:   String
+
+Body: 
+
+Used to sort notes by their sequence numbers. 

@@ -1,0 +1,15 @@
+Title:  Note Body
+
+Tags:   note
+
+Model:  Note
+
+Seq:    1.98
+
+Field:  Body
+
+Type:   String
+
+Body: 
+
+Formatted using Markdown. 

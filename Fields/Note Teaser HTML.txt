@@ -1,0 +1,15 @@
+Title:  Note Teaser HTML
+
+Tags:   note
+
+Model:  Note
+
+Seq:    1.97
+
+Field:  Teaser HTML
+
+Type:   String
+
+Body: 
+
+A brief excerpt from the body, meant to give a potential reader some feel for the item's content. Converted to HTML. 

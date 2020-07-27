@@ -1,0 +1,15 @@
+Title:  Note Status
+
+Tags:   note
+
+Model:  Note
+
+Seq:    1.9
+
+Field:  Status
+
+Type:   String
+
+Body: 
+
+A status field, consisting of a digit and/or a label. 

@@ -1,0 +1,15 @@
+Title:  Note Field Value
+
+Tags:   notefield
+
+Model:  Note Field
+
+Seq:    2.2
+
+Field:  Value
+
+Type:   String
+
+Body: 
+
+The value of the field. 

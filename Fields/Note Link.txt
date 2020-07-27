@@ -1,0 +1,15 @@
+Title:  Note Link
+
+Tags:   note
+
+Model:  Note
+
+Seq:    1.13
+
+Field:  Link
+
+Type:   String
+
+Body: 
+
+A link (aka URL) pointing to a related resource. 

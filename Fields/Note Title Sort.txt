@@ -1,0 +1,15 @@
+Title:  Note Title Sort
+
+Tags:   note
+
+Model:  Note
+
+Seq:    1.2
+
+Field:  Title Sort
+
+Type:   String
+
+Body: 
+
+Derived from the title, and used to sort notes into a natural order. 

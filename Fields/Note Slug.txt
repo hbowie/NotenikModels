@@ -1,0 +1,16 @@
+Title:  Note Slug
+
+Tags:   note
+
+Model:  Note
+
+Seq:    1.4
+
+Field:  Slug
+
+Type:   String
+
+Body: 
+
+The identifier for this particular Note that will be used as part of its URL. 
+

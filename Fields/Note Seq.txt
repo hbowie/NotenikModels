@@ -1,0 +1,15 @@
+Title:  Note Seq
+
+Tags:   note
+
+Model:  Note
+
+Seq:    1.5
+
+Field:  Seq
+
+Type:   String
+
+Body: 
+
+A sequence number or version identifier. 
