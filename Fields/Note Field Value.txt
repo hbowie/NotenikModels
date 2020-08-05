@@ -8,8 +8,11 @@ Seq:    2.2
 
 Field:  Value
 
+Required: true
+
 Type:   String
 
 Body: 
 
 The value of the field. 
+

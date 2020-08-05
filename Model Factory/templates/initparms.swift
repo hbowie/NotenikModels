@@ -13,9 +13,9 @@
 <?if =$wrapper$= eq "Children" ?>
 <?endif?>
 <?if =$wrapper$= eq "Parent" ?>
-		=$field&clul$=: =$type$=, 
+		=$field&clul$=Id: UUID, 
 <?endif?>
 <?else?>
-    	=$field&clul$=: =$type$=, 
+    	=$field&clul$=: =$type&cuul$=, 
 <?endif?>
 <?loop?>

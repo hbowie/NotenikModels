@@ -14,3 +14,9 @@ template	open			/Users/hbowie/Xcode/NotenikModels/Model Factory/templates/self-a
 template	generate
 template	open			/Users/hbowie/Xcode/NotenikModels/Model Factory/templates/class-definitions.swift
 template	generate
+template	open			/Users/hbowie/Xcode/NotenikModels/Model Factory/templates/migrate-revert.swift
+template	generate
+template	open			/Users/hbowie/Xcode/NotenikModels/Model Factory/templates/migrate-prepare.swift
+template	generate
+template	open			/Users/hbowie/Xcode/NotenikModels/Model Factory/templates/migrations.swift
+template	generate

@@ -8,6 +8,8 @@ Seq:    1.4
 
 Field:  Slug
 
+Required: true
+
 Type:   String
 
 Body: 

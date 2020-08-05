@@ -8,8 +8,11 @@ Seq:    1.3
 
 Field:  Title Common
 
+Required: true
+
 Type:   String
 
 Body: 
 
 The lowest common denominator of the title, created by removing punctuation and changing all letters to lower case. 
+

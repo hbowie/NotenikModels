@@ -8,6 +8,8 @@ Seq:    1.1
 
 Field:  Title
 
+Required: true
+
 Type:   String
 
 Body: 

@@ -10,6 +10,8 @@ Field:  Fields
 
 Wrapper: Children
 
+Required: true
+
 Children for: note
 
 Child Model: Note Field

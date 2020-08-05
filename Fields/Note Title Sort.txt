@@ -8,8 +8,11 @@ Seq:    1.2
 
 Field:  Title Sort
 
+Required: true
+
 Type:   String
 
 Body: 
 
 Derived from the title, and used to sort notes into a natural order. 
+

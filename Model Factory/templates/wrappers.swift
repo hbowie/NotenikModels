@@ -10,7 +10,7 @@
     @Field(key: FieldKeys.=$field&clul$=) var =$field&clul$=: =$type$=
 <?endif?>
 <?if =$wrapper$= eq "Children" ?>
-    @Children(for: \.$=$children-for$=) var =$field&clul$=: [=$type&cuul$=]
+    @Children(for: \.$=$children-for$=) var =$field&clul$=: [=$childmodel&cuul$=Model]
 <?endif?>
 <?if =$wrapper$= eq "Parent" ?>
     @Parent(key: FieldKeys.=$field&clul$=Id) var =$field&clul$=: =$type&cuul$=

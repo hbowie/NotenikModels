@@ -8,6 +8,8 @@ Seq:    1.99
 
 Field:  Body HTML
 
+Required: true
+
 Type:   String
 
 Body: 

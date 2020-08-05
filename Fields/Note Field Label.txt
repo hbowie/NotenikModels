@@ -8,8 +8,11 @@ Seq:    2.1
 
 Field:  Label
 
+Required: true
+
 Type:   String
 
 Body: 
 
 The label/name identifying the field, reduced to its lowest common denominator value. 
+

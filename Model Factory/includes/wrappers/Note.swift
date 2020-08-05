@@ -18,4 +18,4 @@
     @Field(key: FieldKeys.teaserHtml) var teaserHtml: String
     @Field(key: FieldKeys.body) var body: String
     @Field(key: FieldKeys.bodyHtml) var bodyHtml: String
-    @Children(for: \.$note) var fields: [Uuid]
+    @Children(for: \.$note) var fields: [NoteFieldModel]
