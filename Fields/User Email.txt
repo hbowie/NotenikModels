@@ -1,0 +1,24 @@
+Title:  User Email
+
+Tags:   user
+
+Module: User
+
+Model:  User
+
+Seq:    1.2
+
+Field:  Email
+
+Wrapper: Field
+
+Required: true
+
+Unique: false
+
+Type:   String
+
+Body: 
+
+An email address that can be used to communicate with this user. 
+

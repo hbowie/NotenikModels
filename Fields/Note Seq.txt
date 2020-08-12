@@ -2,14 +2,21 @@ Title:  Note Seq
 
 Tags:   note
 
+Module: Note
+
 Model:  Note
 
-Seq:    1.5
+Seq:    2.5
 
 Field:  Seq
+
+Required: false
+
+Unique: false
 
 Type:   String
 
 Body: 
 
 A sequence number or version identifier. 
+

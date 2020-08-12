@@ -2,14 +2,21 @@ Title:  Note Teaser
 
 Tags:   note
 
+Module: Note
+
 Model:  Note
 
-Seq:    1.96
+Seq:    2.96
 
 Field:  Teaser
+
+Required: false
+
+Unique: false
 
 Type:   String
 
 Body: 
 
 A brief excerpt from the body, meant to give a potential reader some feel for the item's content. 
+

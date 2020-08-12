@@ -8,7 +8,7 @@
                 .field(NoteModel.FieldKeys.titleSort, 
 					.string,
 					.required)
-                .field(NoteModel.FieldKeys.titleCommon, 
+                .field(NoteModel.FieldKeys.localId, 
 					.string,
 					.required)
                 .field(NoteModel.FieldKeys.slug, 
@@ -55,6 +55,12 @@
                 .field(NoteFieldModel.FieldKeys.value, 
 					.string,
 					.required)
+                .field(NoteFieldModel.FieldKeys.noteId, .uuid, 
+					.required)
+                .foreignKey(NoteFieldModel.FieldKeys.noteId,
+                            references: NoteModel.schema, .id,
+                            onDelete: .cascade,
+                            onUpdate: .cascade)
                 .create(),
         ])
     }

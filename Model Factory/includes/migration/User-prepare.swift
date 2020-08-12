@@ -1,0 +1,22 @@
+    func prepare(on db: Database) -> EventLoopFuture<Void> {
+        db.eventLoop.flatten([
+            db.schema(UserModel.schema)
+                .id()
+                .field(UserModel.FieldKeys.userId, 
+					.string,
+					.required)
+                .field(UserModel.FieldKeys.email, 
+					.string,
+					.required)
+                .field(UserModel.FieldKeys.password, 
+					.string,
+					.required)
+                .field(UserModel.FieldKeys.firstName, 
+					.string,
+					.required)
+                .field(UserModel.FieldKeys.fullName, 
+					.string,
+					.required)
+                .create(),
+        ])
+    }

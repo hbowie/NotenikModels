@@ -1,0 +1,24 @@
+Title:  User User ID
+
+Tags:   user
+
+Module: User
+
+Model:  User
+
+Seq:    1.1
+
+Field:  User ID
+
+Wrapper: Field
+
+Required: true
+
+Unique: true
+
+Type:   String
+
+Body: 
+
+An idenifier used to uniquely identify a particular user. This should be in a format similar to an email address: 'user@domain'. 
+

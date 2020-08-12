@@ -2,15 +2,19 @@ Title:  Note Fields
 
 Tags:   note
 
+Module: Note
+
 Model:  Note
 
-Seq:    1.100
+Seq:    2.100
 
 Field:  Fields
 
 Wrapper: Children
 
 Required: true
+
+Unique: false
 
 Children for: note
 

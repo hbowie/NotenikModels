@@ -2,13 +2,17 @@ Title:  Note Body
 
 Tags:   note
 
+Module: Note
+
 Model:  Note
 
-Seq:    1.98
+Seq:    2.98
 
 Field:  Body
 
 Required: true
+
+Unique: false
 
 Type:   String
 

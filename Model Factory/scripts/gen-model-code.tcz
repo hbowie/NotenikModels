@@ -20,3 +20,9 @@ template	open			/Users/hbowie/Xcode/NotenikModels/Model Factory/templates/migrat
 template	generate
 template	open			/Users/hbowie/Xcode/NotenikModels/Model Factory/templates/migrations.swift
 template	generate
+template	open			/Users/hbowie/Xcode/NotenikModels/Model Factory/templates/seed-revert.swift
+template	generate
+template	open			/Users/hbowie/Xcode/NotenikModels/Model Factory/templates/seed-prepare.swift
+template	generate
+template	open			/Users/hbowie/Xcode/NotenikModels/Model Factory/templates/seeds.swift
+template	generate

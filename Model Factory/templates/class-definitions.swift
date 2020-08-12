@@ -2,8 +2,12 @@
 <?definegroup 1 "=$Model$="?>
 <?ifendgroup 1 ?>
 }
+
+<?include "../extensions/=$LastModel&cuul$=Model.swift" ?>
+<?endif?>
 <?ifnewgroup 1 ?>
-<?output "../code/=$Model&cuul$=Model.swift"?>
+<?set lastmodel = =$Model$= ?>
+<?output "../code/Modules/=$module$=/Models/=$Model&cuul$=Model.swift"?>
 //
 //  =$Model&cuul$=Model.swift
 //

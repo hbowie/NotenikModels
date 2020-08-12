@@ -2,14 +2,21 @@ Title:  Note Status Sort
 
 Tags:   note
 
+Module: Note
+
 Model:  Note
 
-Seq:    1.10
+Seq:    2.10
 
 Field:  Status Sort
+
+Required: false
+
+Unique: false
 
 Type:   String
 
 Body: 
 
 Formatted for sorting. 
+

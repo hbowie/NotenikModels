@@ -2,14 +2,21 @@ Title:  Note Teaser HTML
 
 Tags:   note
 
+Module: Note
+
 Model:  Note
 
-Seq:    1.97
+Seq:    2.97
 
 Field:  Teaser HTML
+
+Required: false
+
+Unique: false
 
 Type:   String
 
 Body: 
 
 A brief excerpt from the body, meant to give a potential reader some feel for the item's content. Converted to HTML. 
+

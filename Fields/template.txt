@@ -2,15 +2,19 @@ Title:
 
 Tags:  
 
+Module: 
+
 Model:  
 
 Seq:  
 
 Field:  
 
-Wrapper: 
+Wrapper: pick-from: Field, Children, Parent, ID
 
 Required: <bool>
+
+Unique: <bool>
 
 Children for: 
 

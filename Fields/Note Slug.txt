@@ -2,13 +2,17 @@ Title:  Note Slug
 
 Tags:   note
 
+Module: Note
+
 Model:  Note
 
-Seq:    1.4
+Seq:    2.4
 
 Field:  Slug
 
 Required: true
+
+Unique: false
 
 Type:   String
 

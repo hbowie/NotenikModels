@@ -1,0 +1,24 @@
+Title:  User Full Name
+
+Tags:   user
+
+Module: User
+
+Model:  User
+
+Seq:    1.5
+
+Field:  Full Name
+
+Wrapper: Field
+
+Required: true
+
+Unique: false
+
+Type:   String
+
+Body: 
+
+The full name of the user, including first and last names. 
+

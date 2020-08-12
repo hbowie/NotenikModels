@@ -2,7 +2,7 @@
 		self.id = id
     	self.title = title
     	self.titleSort = titleSort
-    	self.titleCommon = titleCommon
+    	self.localId = localId
     	self.slug = slug
     	self.seq = seq
     	self.seqSort = seqSort

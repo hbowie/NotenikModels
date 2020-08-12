@@ -2,14 +2,21 @@ Title:  Note Status Done
 
 Tags:   note
 
+Module: Note
+
 Model:  Note
 
-Seq:    1.11
+Seq:    2.11
 
 Field:  Status Done
+
+Required: false
+
+Unique: false
 
 Type:   String
 
 Body: 
 
 Indicates whether a task has been completed or not. 
+

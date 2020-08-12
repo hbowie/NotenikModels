@@ -2,14 +2,21 @@ Title:  Note Status
 
 Tags:   note
 
+Module: Note
+
 Model:  Note
 
-Seq:    1.9
+Seq:    2.9
 
 Field:  Status
+
+Required: false
+
+Unique: false
 
 Type:   String
 
 Body: 
 
 A status field, consisting of a digit and/or a label. 
+

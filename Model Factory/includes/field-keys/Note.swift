@@ -1,7 +1,7 @@
     struct FieldKeys {
         static var title: FieldKey { "title" }
         static var titleSort: FieldKey { "title_sort" }
-        static var titleCommon: FieldKey { "title_common" }
+        static var localId: FieldKey { "local_id" }
         static var slug: FieldKey { "slug" }
         static var seq: FieldKey { "seq" }
         static var seqSort: FieldKey { "seq_sort" }

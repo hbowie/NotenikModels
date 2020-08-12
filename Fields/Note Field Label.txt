@@ -2,13 +2,17 @@ Title:  Note Field Label
 
 Tags:   notefield
 
+Module: Note
+
 Model:  Note Field
 
-Seq:    2.1
+Seq:    3.1
 
 Field:  Label
 
 Required: true
+
+Unique: false
 
 Type:   String
 

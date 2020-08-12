@@ -1,0 +1,22 @@
+Title:  Note Local ID
+
+Tags:   note
+
+Module: Note
+
+Model:  Note
+
+Seq:    2.3
+
+Field:  Local ID
+
+Required: true
+
+Unique: false
+
+Type:   String
+
+Body: 
+
+An identifier that is unique within the Note's Collection, usually formed by taking the lowest common denominator of the title, created by removing punctuation and changing all letters to lower case. 
+

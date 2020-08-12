@@ -2,11 +2,17 @@ Title:  Note Author Sort
 
 Tags:   note
 
+Module: Note
+
 Model:  Note
 
-Seq:    1.15
+Seq:    2.15
 
 Field:  Author Sort
+
+Required: false
+
+Unique: false
 
 Type:   String
 

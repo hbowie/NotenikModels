@@ -1,7 +1,7 @@
     init(id: UUID? = nil,
     	title: String, 
     	titleSort: String, 
-    	titleCommon: String, 
+    	localId: String, 
     	slug: String, 
     	seq: String, 
     	seqSort: String, 

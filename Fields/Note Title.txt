@@ -2,13 +2,17 @@ Title:  Note Title
 
 Tags:   note
 
+Module: Note
+
 Model:  Note
 
-Seq:    1.1
+Seq:    2.1
 
 Field:  Title
 
 Required: true
+
+Unique: false
 
 Type:   String
 

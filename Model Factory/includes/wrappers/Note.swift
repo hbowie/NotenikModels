@@ -1,7 +1,7 @@
     @ID() var id: UUID?
     @Field(key: FieldKeys.title) var title: String
     @Field(key: FieldKeys.titleSort) var titleSort: String
-    @Field(key: FieldKeys.titleCommon) var titleCommon: String
+    @Field(key: FieldKeys.localId) var localId: String
     @Field(key: FieldKeys.slug) var slug: String
     @Field(key: FieldKeys.seq) var seq: String
     @Field(key: FieldKeys.seqSort) var seqSort: String

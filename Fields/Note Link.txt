@@ -2,14 +2,21 @@ Title:  Note Link
 
 Tags:   note
 
+Module: Note
+
 Model:  Note
 
-Seq:    1.13
+Seq:    2.13
 
 Field:  Link
+
+Required: false
+
+Unique: false
 
 Type:   String
 
 Body: 
 
 A link (aka URL) pointing to a related resource. 
+

@@ -2,13 +2,17 @@ Title:  Note Body HTML
 
 Tags:   note
 
+Module: Note
+
 Model:  Note
 
-Seq:    1.99
+Seq:    2.99
 
 Field:  Body HTML
 
 Required: true
+
+Unique: false
 
 Type:   String
 

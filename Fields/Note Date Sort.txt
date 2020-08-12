@@ -2,14 +2,21 @@ Title:  Note Date Sort
 
 Tags:   note
 
+Module: Note
+
 Model:  Note
 
-Seq:    1.8
+Seq:    2.8
 
 Field:  Date Sort
+
+Required: false
+
+Unique: false
 
 Type:   String
 
 Body: 
 
 Formatted for sorting. 
+

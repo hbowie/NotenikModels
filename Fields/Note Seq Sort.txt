@@ -2,14 +2,21 @@ Title:  Note Seq Sort
 
 Tags:   note
 
+Module: Note
+
 Model:  Note
 
-Seq:    1.6
+Seq:    2.6
 
 Field:  Seq Sort
+
+Required: false
+
+Unique: false
 
 Type:   String
 
 Body: 
 
 Used to sort notes by their sequence numbers. 
+

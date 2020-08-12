@@ -2,14 +2,21 @@ Title:  Note Tags
 
 Tags:   note
 
+Module: Note
+
 Model:  Note
 
-Seq:    1.12
+Seq:    2.12
 
 Field:  Tags
+
+Required: false
+
+Unique: false
 
 Type:   String
 
 Body: 
 
 A textual representation of all the tags for a Note. 
+

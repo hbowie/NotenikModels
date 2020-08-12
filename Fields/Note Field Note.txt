@@ -2,15 +2,19 @@ Title:  Note Field Note
 
 Tags:   notefield
 
+Module: Note
+
 Model:  Note Field
 
-Seq:    2.3
+Seq:    3.3
 
 Field:  Note
 
 Wrapper: Parent
 
 Required: true
+
+Unique: false
 
 Type:   Note Model
 
